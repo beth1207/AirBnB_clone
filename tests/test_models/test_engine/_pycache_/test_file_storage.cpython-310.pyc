@@ -1,0 +1,412 @@
+o
+
+     unittests for models/engine/file_storage.py.
+
+Unittest classes:
+    TestFileStorage_instantiation
+    TestFileStorage_methods
+é    N)o
+
+    10¥ïb*  ã                   @   sÌ   d Z ddlZddldatetime)o
+
+    9¥ïb*  ã                   @   sÌ   d Z ddlZddlÚ	BaseModel)o
+
+ Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeviedr0   ÚkeysÚvaluesr   ÚbmÚusÚstÚplÚcyÚamÚrvr   r   r  test_newH   s8    Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+)Nédr0   ÚkeysÚvaluesr   ÚbmÚusÚstÚplÚcyÚamÚrvr   r   r  test_newH   s8    Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+šwtFileStorage_methods.test_new_with_argsc )Nédr0   ÚkeysÚvaluesr   ÚbmÚusÚstÚplÚcyÚamÚrvr   r   r  test_newH   s8    Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+   r   r   r            
+C   sB )Nédr0   ÚkeysÚvaluesr   ÚbmÚusÚstÚplÚcyÚamÚrvr   r   r  test_newH   s8    Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+r   r   r   t ƒ } )Nédr0   ÚkeysÚvaluesr   ÚbmÚusÚstÚplÚcyÚamÚrvr   r   r  test_newH   s8    Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+r   r   r t )Nédr0   ÚkeysÚvaluesr   ÚbmÚusÚstÚplÚcyÚamÚrvr   r   r  test_newH   s8    Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+r   r   r ƒ }ttFileStorage_methods.test_new_with_argsc )Nédr0   ÚkeysÚvaluesr   ÚbmÚusÚstÚplÚcyÚamÚrvr   r   r  test_newH   s8    Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+   r   r   r            
+C   sB )Nédr1   ÚkeysÚvaluesr   ÚbmÚusÚstÚplÚcyÚamÚrvr   r   r  test_newH   s8    Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BasMoelúU	er
+úSat .ú=PlNce.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+r   r   r   t ƒ } )Nédr0   ÚkeysÚvaluesr   ÚbmÚusÚstÚplÚcyÚamÚrvr   r   r  test_newH   s8    Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+r   r   r t )Nédr0   ÚkeysÚvaluesr   ÚbmÚusÚstÚplÚcyÚamÚrvr   r   r  test_newH   s8    Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+easeModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+adr   r   r>   r?   )	rvr   rB   rC   rD   rE   rF   rG   rH   Zobjsr   r   r  Úてst_reload‰   s0   eeeeeeeeeeeeee
+e
+   r   r   r    rT   r
+r   r   r  Útest_reload_with_arg£   r4   z,TestFileStorage_methods.test_reload_with_argN)   r#   r$   r%   Úlassmethodr-   r/   r1   r3   rI   rK   rR   rS   rU   rV   r   r   r   r  r&   +   s   "
+"
+"aseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+   r   r   r ƒ }taseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+Bas..userrú   Úmodels.stater   Úmodels.placer  Úもdels.city   ÚkeysÚmodels.amenityr	   Ú
+models.reviewr
+TestCaser  r&   r"   Úmainr   r   r   r  <module>   r#   r$   r%   Úlassmethodr-   r/   r1   r3   rI   rK   rR   rS   rU   rV   r   r   r   r  r&   +   s   "
+"
+s&      r#   r$   r%   Úlassmethodr-   r/   r1   r3   rI   rK   rR   rS   rU   rV   r   r   r   r  r&   +   s   "
+"   r#   r$   r%   Úlassmethodr-   r/   r1   r3   rI   rK   rR   rS   rU   rV   r   r   r   r  r&   +   s   "
+"   r#   r$   r%   Úlassmethodr-   r/   r1   r3   rI   rK   rR   rS   rU   rV   r   r   r   r  r&   +   s   "
+"   r#   r$   r%   Úlassmethodr-   r/   r1   r3   rI   rK   rR   rS   rU   rV   r   r   r   r  r&   +   s   "
+"
+   r#   r$   r%   Úlassmethodr-   r/   r1   r3   rI   rK   rR   rS   rU   rV   r   r   r   r  r&   +   s   "
+"
+   r#   r$   r%   Úlassmethodr-   r/   r1   r3   rI   rK   rR   rS   rU   rV   r   r   r   r  r&   +   s   "
+"
+   r#   r$   r%   Úlassmethodr-   r/   r1   r3   rI   rK   rR   rS   rU   rV   r   r   r   r  r&   +   s   "
+"
+   r#   r$   r%   Úlassmethodr-   r/   r1   r3   rI   rK   rR   rS   rU   rV   r   r   r   r  r&   +   s   "
+"
+   r#   r$   r%   Úlassmethodr-   r/   r1   r3   rI   rK   rR   rS   rU   rV   r   r   r   r  r&   +   s   "
+"
+User.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+r   r   rtFileStorage_methods.test_new_with_argsc )Nédr0   ÚkeysÚvaluesr   ÚbmÚusÚstÚplÚcyÚamÚrvr   r   r  test_newH   s8    Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview NúBaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+edr>   r?   )
+rvr   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚefr   r   r  Ú	test_savej   s4   eeeeeeeeeeeeee
+   r   r   r    rN   ra  r   r   r  Úest_save_with_arg…   r4   z*TestFileStorage_methods.test_save_with_argcdr>   r?   )
+rvr   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚefr   r   r  Ú	test_savej   s4   eeeeeeeeeeeeee
+   r   r   r    rN   r     seModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+   r   r   r            
+C   sB )Nédr1   ÚkeysÚvaluesr   ÚbmÚusÚstÚplÚcyÚamÚrvr   r   r  test_newH   s8    Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+r   r   r   t ƒ } )Nédr0   ÚkeysÚvaluesr   ÚbmÚusÚstÚplÚcyÚamÚrvr   r   r  test_newH   s8    Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+r   r   r t )Nédr0   ÚkeysÚvaluesr   ÚbmÚusÚstÚplÚcyÚamÚrvr   r   r  test_newH   s8    Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+BaseModel.úUser.úState.úPlace.úCity.Amenity.úeview Nú
+   r   r   r ƒ }t
+
+10¥ïb*  ã                   @   sÌ   d Z ddlZddlÚUser)o
+
+    10¥ïb*  ã                   @   sÌ   d Z ddlZddlÚState)o
+
+    9¥ïb*  ã                   @   sÌ   d Z ddlZddlÚPlace)o
+
+9¥ïb*  ã                   @   sÌ   d Z ddlZddlÚCity)o
+
+ )
+ÚTestFileStorage_instantiationz=Unittests for testing instantiation of the FileStorage class.c unittests for models/engine/file_storage.py.
+
+Unittest classes:
+    TestFileStorage_instantiation
+    TestFileStorage_methods
+é    N)o
+
+    9¥ïb*  ã                   @   sÌ   d Z ddlZddldatetime)o
+
+    9¥ïb*  ã                   @   sÌ   d Z ddlZddlÚ	BaseModel)o
+
+    9¥ïb*  ã                   @   sÌ   d Z ddlZddlÚileStorage)o
+
+11¥ïb*  ã                   @   sÌ   d Z ddlZddlÚUser)o
+
+    9¥ïb*  ã                   @   sÌ   d Z ddlZddlÚState)o
+
+    tFileStorage_methods.setUpc                    ¥ïb*  ã                   @   sÌ   d Z ddlZddlÚPlace)o
+
+9¥ïb*  ã                   @   sÌ   d Z ddlZddlÚCity)o
+
+    9¥ïb*  ã                   @   sÌ   d Z ddlZddlÚme            unittests for models/engine/file_storage.py.
+
+Unittest classes:
+    TestFileStorage_instantiation
+    TestFileStorage_methods
+é    N)o
+
+    9¥ïb*  ã                   @   sÌ   d Z ddlZddldatetime)o
+
+    9¥ïb*  ã                   @   sÌ   d Z ddlZddlÚ	BaseModel)o
+
+    9¥ïb*  ã                   @   sÌ   d Z ddlZddlÚileStorage)o
+
+9¥ïb*  ã                   @   sÌ   d Z ddlZddlÚUser)o
+
+    9¥ïb*  ã                   @   sÌ   d Z ddlZddlÚState)o
+
+    9¥ïb*  ã                   @   sÌ   d Z ddlZddlÚPlace)o
+
+9¥ïb*  ã                   @   sÌ   d Z ddlZ t_d S r'   )r*   Úremover,   r+   r   r   rd  r   r   r  tearDown5   s   ÚCity t_d S r'   )r*   Úremover,   r+   r   r   r t_d S r'   )r*   Úremover,   r+   r   r   r t_d S r'   )r*   Úremover,   r+   r   r   rÿremover t_d S r'   )r*   Úremover,   r+   r   r   r t_d S r'   )r*   Úremover,   r+   r   r   r t_d S r'   )r*   Úremover,   r+   r   r   rÿ
+   r   r   r    r0   r
+   r   r   r    r1   rƒ }tƒ 
+9¥ïb*  ã                   @   sÌ   d Z ddlZddlÚme      C   s   | aisesÚ	TypeErrorr   r  r   r   r  Ú'test_FileStorage_instantiation_with_arg   s   aisesÚ	TypeErrorr   r
+aisesÚ	TypeErrorr   r"ÿzETestFileStorage_instantiation.test_FileStorage_instantiation_with_argcaisesÚ	TypeErrorr   r           aisesÚ	TypeErrorr   r     t_FileStorage_file_path_is_private_str!   r   zGTestFileStorage_instantiation.test_FileStorage_file_path_is_private_strc  r   r   r  Ú'test_FileStorage_instantiation_with_arg   s   aisesÚ	TypeErrorr   r
+aisesÚ	TypeErrorr   r"ÿzETestFileStorage_instantiation.test_FileStorage_instantiation_with_argcaisesÚ	TypeErrorr   r           aisesÚ	TypeErrorr   r                   r   r   r  Ú'test_FileStorage_instantiation_with_arg   s   aisesÚ	TypeErrorr   r
+aisesÚ	TypeErrorr   r"ÿzETestFileStorage_instantiation.test_FileStorage_instantiation_with_argcaisesÚ	TypeErrorr   r           aisesÚ	TypeErrorr   r            C   r   r   )r
+	_FileStorage__objectsr  r   r   r  Ú'testFileStorage_objects_is_private_dict$   r   zETestFileStorage_instantiation.testFileStorage_objects_is_private_dictct_FileStorage_file_path_is_private_str!   r   zGTestFileStorage_instantiation.test_FileStorage_file_path_is_private_strc  r   r   r  Ú'test_FileStorage_instantiation_with_arg   s   aisesÚ	TypeErrorr   r
+aisesÚ	TypeErrorr   r"ÿzETestFileStorage_instantiation.test_FileStorage_instantiation_with_argcaisesÚ	TypeErrorr   r           aisesÚ	TypeErrorr   r                   r   r   r  Ú'test_FileStorage_instantiation_with_arg   s   aisesÚ	TypeErrorr   r
+aisesÚ	TypeErrorr   r"ÿzETestFileStorage_instantiation.test_FileStorage_instantiation_with_argcaisesÚ	TypeErrorr   r           aisesÚ	TypeErrorr   r            C   r   r   )r
